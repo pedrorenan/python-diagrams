@@ -100,7 +100,7 @@ $ python diagram.py
   <img alt="Running the project" title="Running the project" src="./assets/python-diagrams-running.png" width="800px">
 </p>
 
-Eu escrevi um post sobre [VSCode](https://code.visualstudio.com/download) e [Remote-Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers), se quiser ler um pouco mais sobre o assunto, é só acessar ("Em busca da independência para o ambiente de desenvolvimento")[https://medium.com/@pedrorenan/em-busca-da-independ%C3%AAncia-para-o-ambiente-de-desenvolvimento-2adc22f6f250].
+Eu escrevi um post sobre [VSCode](https://code.visualstudio.com/download) e [Remote-Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers), se quiser ler um pouco mais sobre o assunto, é só acessar ["Em busca da independência para o ambiente de desenvolvimento"](https://medium.com/@pedrorenan/em-busca-da-independ%C3%AAncia-para-o-ambiente-de-desenvolvimento-2adc22f6f250).
 
 
 ## 💪 Como contribuir no projeto
