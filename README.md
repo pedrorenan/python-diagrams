@@ -1,5 +1,5 @@
 <h3 align="center">
-    Um exemplo de como utilizar o Diagrams para gerar diagramas de arquitetura bonitos e com poucas linhas de código e usando Remote-Containers no VSCode.
+    Um exemplo de como utilizar o Diagrams para gerar diagramas de arquitetura de sistemas em nuvem, bonitos, com poucas linhas de código e usando Remote-Containers do VSCode.
 </h3>
 
 <p align="center">
@@ -28,18 +28,8 @@ Tabela de conteúdos
 <!--ts-->
    * [Sobre o projeto](#-sobre-o-projeto)
    * [Funcionalidades](#-funcionalidades)
-   * [Layout](#-layout)
-     * [Mobile](#mobile)
-     * [Web](#web)
    * [Como executar o projeto](#-como-executar-o-projeto)
      * [Pré-requisitos](#pré-requisitos)
-     * [Rodando o Backend (servidor)](#user-content--rodando-o-backend-servidor)
-     * [Rodando a aplicação web (Frontend)](#user-content--rodando-a-aplicação-web-frontend)
-   * [Tecnologias](#-tecnologias)
-     * [WebSite](#user-content-website--react----typescript)
-     * [Server](#user-content-server--nodejs----typescript)
-     * [Mobile](#user-content-mobile--react-native----typescript)
-   * [Contribuidores](#-contribuidores)
    * [Como contribuir no projeto](#-como-contribuir-no-projeto)
    * [Autor](#-autor)
    * [Licença](#user-content--licença)
@@ -84,13 +74,13 @@ $ code .
 Quando o  [VSCode](https://code.visualstudio.com/download)  abrir você verá uma mensagem informando que foram detectadas as configurações necessárias para que a extensão  [Remote-Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers)  faça a mágica acontecer.
 
 <p align="center">
-  <img alt="Remote Containers Dialog" title="Remote Containers Dialog" src="./assets/python-diagrams-remote-containers-dialog.png" width="200px">
+  <img alt="Remote Containers Dialog" title="Remote Containers Dialog" src="./assets/python-diagrams-remote-containers-dialog.png" width="400px">
 </p>
 
 Clique em "Reopen in Container". O [VSCode](https://code.visualstudio.com/download) vai reiniciar e se é só aguardar o ambiente ficar pronto para você. Pode demorar um pouco na primeira vez se você nunca tiver feito o download dos containers necesários 🕐. Mas vale a pena!
 
 <p align="center">
-  <img alt="Terminal inside Container" title="Terminal inside Container" src="./assets/python-diagrams-terminal-inside-vscode.png" width="200px">
+  <img alt="Terminal inside Container" title="Terminal inside Container" src="./assets/python-diagrams-terminal-inside-vscode.png" width="400px">
 </p>
 
 Quando finalizar, você terá um terminal dentro do [VSCode](https://code.visualstudio.com/download) que já está dentro do container. Tipo [Inception](https://www.imdb.com/title/tt1375666/) mesmo 🍿. 
@@ -105,7 +95,7 @@ $ python diagram.py
  Os diagramas estão programados para gerar em uma pasta chamada "diagrams", mas você pode alterar para fazer da forma que você quiser  😀. Olha como fica bonitão:
 
 <p align="center">
-  <img alt="Running the project" title="Running the project" src="./assets/python-diagrams-running.png" width="400px">
+  <img alt="Running the project" title="Running the project" src="./assets/python-diagrams-running.png" width="800px">
 </p>
 
 
