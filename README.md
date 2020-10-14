@@ -1,5 +1,5 @@
 <h3 align="center">
-    Um exemplo de como utilizar o Phyton Diagrams para gerar diagramas de arquitetura de sistemas em nuvem, bonitos, com poucas linhas de código e usando Remote-Containers do VSCode.
+    Um exemplo de como utilizar o Python Diagrams para gerar diagramas de arquitetura de sistemas em nuvem, bonitos, com poucas linhas de código e usando Remote-Containers do VSCode.
 </h3>
 
 <p align="center">
