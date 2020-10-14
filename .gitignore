@@ -128,4 +128,10 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
+# Pyre type checker
+
+# Diagrams outformat
 *.png
+*.jpg
+*.svg
+*.pdf
