@@ -14,9 +14,9 @@
 </p>
 <!--ts-->
 
-*  [🇧🇷🇵🇹Português](#-português)
+*  [🇧🇷🇵🇹 Português](#-português)
 
-*  [🌎English](#-english)
+*  [🌎 English](#-english)
 
 <!--te-->
 
@@ -27,6 +27,7 @@
 Um exemplo de como utilizar o Python Diagrams para gerar diagramas de arquitetura de sistemas em nuvem, bonitos, com poucas linhas de código e usando Remote-Containers do VSCode.
 
 </h3>
+
 
 Tabela de conteúdos
 
@@ -257,7 +258,7 @@ $ cd python-diagrams
 $ code .
 ```
   
-When [VSCode](https://code.visualstudio.com/download)  opens, you will see a message stating that the necessary settings have been detected for the[Remote-Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) extension to make the magic happen.
+When [VSCode](https://code.visualstudio.com/download)  opens, you will see a message stating that the necessary settings have been detected for the [Remote-Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) extension to make the magic happen.
 
 <p  align="center">
 
@@ -266,7 +267,7 @@ When [VSCode](https://code.visualstudio.com/download)  opens, you will see a mes
 </p>
   
 
-Click on “Reopen in Container”. The[VSCode](https://code.visualstudio.com/download)  will restart and just wait for the environment to be ready for you. It may take a while the first time if you have never downloaded the necessary containers 🕐. But it's worth!
+Click on “Reopen in Container”. The [VSCode](https://code.visualstudio.com/download)  will restart and just wait for the environment to be ready for you. It may take a while the first time if you have never downloaded the necessary containers 🕐. But it's worth!
 
 
 <p  align="center">
