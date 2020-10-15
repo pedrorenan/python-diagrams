@@ -20,7 +20,7 @@
 
 <!--te-->
 
-# 🇧🇷🇵🇹Português
+# 🇧🇷🇵🇹 Português
 
 <h3  align="center">
 
@@ -110,7 +110,7 @@ Quando o [VSCode](https://code.visualstudio.com/download) abrir você verá uma 
 
   
 
-Clique em "Reopen in Container". O [VSCode](https://code.visualstudio.com/download) vai reiniciar e é só aguardar o ambiente ficar pronto para você. Pode demorar um pouco na primeira vez se você nunca tiver feito o download dos containers necesários 🕐. Mas vale a pena!
+Clique em "Reopen in Container". O [VSCode](https://code.visualstudio.com/download) vai reiniciar e é só aguardar o ambiente ficar pronto para você. Pode demorar um pouco na primeira vez se você nunca tiver feito o download dos containers necessários 🕐. Mas vale a pena!
 
   
 
@@ -192,7 +192,7 @@ Feito com ❤️ por Pedro Renan 👋🏽 [Entre em contato!](https://www.linked
 
 <h3  align="center">
 
-A Python Diagrams example to generate cloud systems architecture diagrams, beautiful, typing few code lines and using Remote-Containers VSCode extension.
+A Python Diagrams example to be used as a guide to generate cloud systems architecture diagrams. Making them visually appealing, typing few lines of code and using the Remote-Containers VSCode extension.
 
 </h3>
 
@@ -224,15 +224,15 @@ Table of content
 
 ## 💻 About
 
-The idea came from reading this article here on ["Create Beautiful Architecture Diagrams with Python"](https://towardsdatascience.com/create-beautiful-architecture-diagrams-with-python-7792a1485f97). There are a number of visual tools to do this, but generally they don't just make architectural diagrams and if they are good, they are not free.
+The idea to create this project came from reading an article about this over here ["Create Beautiful Architecture Diagrams with Python"](https://towardsdatascience.com/create-beautiful-architecture-diagrams-with-python-7792a1485f97). There are a vast number of visual tools to do create python diagrams, but usually they are not focused only on creating architectural diagrams. And if the tool is good, it will not be free.
 
-I think this solution is very interesting and tested it with the instructions in the article above and also checking the official Diagrams documentation. The increment I did was to make the project using the resources of the [VSCode](https://code.visualstudio.com/download) and [Remote-Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) extension.  
+I thought that this solution is very interesting and tested it following the instructions in the article above. Also checking the official Diagrams documentation. The increment that I did was to make the project using the resources of the [VSCode](https://code.visualstudio.com/download) and [Remote-Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) extension.  
 
 ---
 
 ## ⚙️ Features
 
-Generates architecture diagrams of cloud systems using Python.
+It generates architecture diagrams of cloud systems using Python.
 
 ---
 
@@ -243,7 +243,7 @@ Generates architecture diagrams of cloud systems using Python.
 
 ### Prerequisites
 
-If you have [VSCode](https://code.visualstudio.com/download) and the [Remote-Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) extension installed on your computer, there is no prerequisite, just run the project! 😲
+If you have [VSCode](https://code.visualstudio.com/download) and the [Remote-Containers](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-containers) extension installed on your computer, there is no other prerequisite. Just run the project! 😲
 
 Steps:
 
@@ -267,7 +267,7 @@ When [VSCode](https://code.visualstudio.com/download)  opens, you will see a mes
 </p>
   
 
-Click on “Reopen in Container”. The [VSCode](https://code.visualstudio.com/download)  will restart and just wait for the environment to be ready for you. It may take a while the first time if you have never downloaded the necessary containers 🕐. But it's worth!
+Click on “Reopen in Container”. The [VSCode](https://code.visualstudio.com/download)  will restart. Just wait for the environment to get ready for you. It may take a while during the first time, specially if you have never downloaded the necessary containers 🕐. But it's worth it!
 
 
 <p  align="center">
@@ -276,9 +276,9 @@ Click on “Reopen in Container”. The [VSCode](https://code.visualstudio.com/d
 
 </p>
 
-When finished, you will have a terminal inside the [VSCode](https://code.visualstudio.com/download)  that is already inside the container. Everything integrated! Like [Inception](https://www.imdb.com/title/tt1375666/)  🍿.
+Once done, you will have a terminal inside the [VSCode](https://code.visualstudio.com/download)  that is already inside the container. Everything integrated! Like [Inception](https://www.imdb.com/title/tt1375666/)  🍿.
 
-💡 Everything you do in this terminal will be done inside the container only!
+💡 Everything you do in this terminal will be done only inside the container!
 
 Last Step:
 
@@ -286,8 +286,8 @@ Last Step:
 # Generate diagrams
 $ python diagram.py
 ```
-Diagrams will be generated in a folder called “diagrams”, but you can change this if you want 😀.
- Look how handsome he looks:
+The diagrams will be generated in a folder called “diagrams”, but you can change this if you want 😀.
+ Look how great it looks:
 
 <p  align="center">
 
@@ -320,6 +320,6 @@ Diagrams will be generated in a folder called “diagrams”, but you can change
 
 This project is under the license [MIT](./LICENSE).
 
-Made with ❤️ por Pedro Renan 👋🏽 [Get in Touch!](https://www.linkedin.com/in/opedrorenan/)
+Made with ❤️ by Pedro Renan 👋🏽 [Get in Touch!](https://www.linkedin.com/in/opedrorenan/)
 
 ---
