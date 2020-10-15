@@ -46,7 +46,7 @@ Tabela de conteúdos
 
 *  [Autor](#-autor)
 
-*  [Licença](#user-content--licença)
+*  [Licença](#-licença)
 
 <!--te-->
   
@@ -210,11 +210,11 @@ Table of content
 
 *  [Prerequisites](#prerequisites)
 
-*  [How to contribute](#-how-to-cobtribute)
+*  [How to contribute](#-how-to-contribute)
 
-*  [Autor](#-autor)
+*  [Author](#-author)
 
-*  [Licença](#user-content--licença)
+*  [License](#-license)
 
 <!--te-->
 
