@@ -138,3 +138,6 @@ dmypy.json
 
 #readme assets
 !/assets/*.png
+
+#macos fix
+.DS_Store
